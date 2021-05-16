@@ -2,6 +2,7 @@
 - Micro/Nano Devices LAB
 - Department of Mechanical Engineering
 - Hanyang University, Seoul, South Korea
+
 -------------------
 ## 🔭 Research Interests
 * Machine Learning - Anomaly Detection
@@ -16,8 +17,8 @@
 ## 👯 Contact
 * LAB : https://microsystemhy.wixsite.com/mind
 * E-mail : sshoon@hanyang.ac.kr
+-------------------
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosshoon)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosshoon&show_icons=true&theme=tokyonight)
 
 
