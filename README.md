@@ -8,8 +8,7 @@
 ## 🔭 Research Interests
 * Machine Learning - Anomaly Detection
 * Sensors & Actuators
-* Smart Materials
-* 3D printing
+* Smart Manufacturing
 
 ## 🌱 Education
 * 2019.03 ~ Present : Combined MS/Ph.D. program in mechanical engineering, Hanyang University
