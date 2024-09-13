@@ -1,22 +1,25 @@
 ### Current Overview
-- Micro/Nano Devices LAB
-- Department of Mechanical Engineering
-- Hanyang University, Seoul, South Korea
+- Autonomous Materials Group
+- Beckman Institute for Adavnced Science and Technology
+- University of Illinois at Urbana-Champaign, IL, USA
 - site : https://sites.google.com/view/shshin
 
 -------------------
 ## 🔭 Research Interests
-* Machine Learning - Anomaly Detection
-* Sensors & Actuators
-* Smart Manufacturing
+* Manufacturing of functional devices
+* Machine learning-based intelligent sensing
+* Micro/Nanofabrication, Additive manufacutring
+
+## 💡 Professional Experiences
+* 2024.09 ~ current : Postdoctoral Research Associate
 
 ## 🌱 Education
-* 2019.03 ~ Present : Combined MS/Ph.D. program in mechanical engineering, Hanyang University
+* 2019.03 ~ 2024.08 : MS/Ph.D. program in mechanical engineering, Hanyang University
 * 2013.03 ~ 2019.02 : B.A in mechanical engineering, Hanyang University
 
 ## 👯 Contact
 * LAB : https://microsystemhy.wixsite.com/mind
-* E-mail : sshoon@hanyang.ac.kr
+* E-mail : shshin5@illinois.edu
 -------------------
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cosshoon&show_icons=true&theme=tokyonight)
